@@ -11,4 +11,4 @@ json
 Division of Labor:
 Ethan Green: Task 1, txt file
 Elsa Cascone: Task 2, 3
-Ethan Ngyuen: Task 4
+Ethan Nguyen: Task 4
